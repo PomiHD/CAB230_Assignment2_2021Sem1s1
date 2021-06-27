@@ -1,4 +1,4 @@
-# CAB230_Assignment2_2021Sem1s1
+# CAB230_Assignment2_2021Sem1
 
 
 <!-- ABOUT THE PROJECT -->
